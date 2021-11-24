@@ -21,7 +21,6 @@ Disfruto  aprendiendo cosas nuevas, especialmente  aquellas relacionadas con  la
  🌱 Actualmente estoy aprendiendo REACT  
  ✨ Defensora de los derechos de los animales  
   ✨ Amante de las miniaturas y los cactus  
-  ![image](https://user-images.githubusercontent.com/85257261/141708052-b1767524-f71f-4fca-8c1a-fa8c32177755.png)  
   ***
   ![image](https://user-images.githubusercontent.com/85257261/141710493-baee208f-0ba7-498d-9c17-1709f5baff54.png)
 
