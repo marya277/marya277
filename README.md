@@ -22,8 +22,8 @@ Disfruto  aprendiendo cosas nuevas, especialmente  aquellas relacionadas con  la
  ✨ Defensora de los derechos de los animales  
   ✨ Amante de las miniaturas y los cactus  
   ***
-  ![image](https://user-images.githubusercontent.com/85257261/141710493-baee208f-0ba7-498d-9c17-1709f5baff54.png)
 
+! [ JavaScript ] (https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 
  
