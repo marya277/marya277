@@ -22,7 +22,7 @@ __Disfruto  aprendiendo cosas nuevas__, especialmente  aquellas relacionadas con
 <a href="url"><img src="https://c.tenor.com/WCg45OATOCIAAAAd/cactus-animated.gif" align="right" height="100" width="100" ></a>
    
  
- 🌱 Actualmente estoy aprendiendo REACT  
+ 🌱 Actualmente estoy aprendiendo REACT NATIVE Y JAVA
  ✨ Defensora de los derechos de los animales  
   ✨ Amante de las miniaturas y los cactus     
   
