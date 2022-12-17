@@ -23,6 +23,7 @@ __Disfruto  aprendiendo cosas nuevas__, especialmente  aquellas relacionadas con
    
  
  🌱 Actualmente estoy aprendiendo REACT NATIVE Y JAVA
+ 
  ✨ Defensora de los derechos de los animales  
   ✨ Amante de las miniaturas y los cactus     
   
